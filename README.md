@@ -4,7 +4,7 @@ Pilgrim's Copilot is an AI assistant for navigating the depths of Scripture and 
 ***[ADDITIONAL FRAMING CONTENT WILL BE CRAFTED AND PLACED HERE BY LIGONIER'S EDITORIAL TEAM.]***
 
 ### Pilgrim's Copilot is Open-source
-Ligonier firmly believes that AI technologies intended to support your Christian faith and practice must operate with complete transparency. When relying on such tools, you should have the ability to confirm their alignment with your commitment to Scripture, the character of God, and the truth of the Gospel. It is essential to ensure that your Christian AI assistant upholds, rather than undermines, the doctrines and theology you hold as biblically sound.
+Ligonier firmly believes that AI technologies intended to support your Christian faith and practice must operate with transparency. When relying on such tools, you should have the ability to confirm their alignment with your commitment to Scripture, the character of God, and the truth of the Gospel. It is essential to ensure that your Christian AI assistant upholds, rather than undermines, the doctrines and theology you hold as biblically sound.
 
 Pilgrim's Copilot is open-sourced under the AGPL-3.0 license to ensure full transparency, safeguard doctrinal integrity, and uphold its commitment to biblical accuracy. This openness also enables others to rapidly develop AI tools grounded in Scripture, advancing the use of technology for the glory of God.
 
