@@ -1,12 +1,12 @@
-# Navigate The Way ✝️
-NTW✝️ is an AI assistant for navigating the depths of Scripture and theology with clarity and conviction. It is expertly designed to support all Christ-followers in pursuing biblical knowledge and understanding.
+# Pilgrim's Copilot
+Pilgrim's Copilot is an AI assistant for navigating the depths of Scripture and theology with clarity and conviction. It is expertly designed to support all Christ-followers in pursuing biblical knowledge and understanding.
 
-For much more information, visit: www.navtheway.com
+***[ADDITIONAL FRAMING CONTENT TO BE CRAFTED AND PLACED HERE BY LIGONIER'S EDITORIAL TEAM]***
 
-### Why did we open-source NTW✝️?
-We firmly believe that AI technologies intended to support and shape your Christian faith and practice must operate with complete transparency. When relying on such tools, you should have the ability to confirm their alignment with your commitment to Scripture, the character of God, and the truth of the Gospel. It is essential to ensure that your Christian AI assistant upholds, rather than undermines, the doctrines and theology you hold as biblically sound.
+### Pilgrim's Copilot is Open-source
+Ligonier firmly believes that AI technologies intended to support your Christian faith and practice must operate with complete transparency. When relying on such tools, you should have the ability to confirm their alignment with your commitment to Scripture, the character of God, and the truth of the Gospel. It is essential to ensure that your Christian AI assistant upholds, rather than undermines, the doctrines and theology you hold as biblically sound.
 
-NTW✝️ is open-sourced under the AGPL-3.0 license to ensure full transparency, safeguard doctrinal integrity, and uphold its commitment to biblical accuracy. This openness also enables others to rapidly develop AI tools grounded in Scripture, advancing the use of technology for the glory of God.
+Pilgrim's Copilot is open-sourced under the AGPL-3.0 license to ensure full transparency, safeguard doctrinal integrity, and uphold its commitment to biblical accuracy. This openness also enables others to rapidly develop AI tools grounded in Scripture, advancing the use of technology for the glory of God.
 
 ### Key Points About the AGPL-3.0 License:
 
@@ -14,7 +14,7 @@ NTW✝️ is open-sourced under the AGPL-3.0 license to ensure full transparency
  - **SaaS Protection**: If the prompt is modified and used in a hosted service (e.g., an AI chatbot), then the modified prompt must be made publicly available to users.
  - **Attribution Required**: Users must credit NTW✝️ as the original creator, even for modified versions (see below).
  - **Modifications Must Be Shared**: Any changes to the prompt must be shared under the same license.
- - **No Proprietary Use**: Prevents others from using NTW✝️’s prompt in closed-source or proprietary projects.
+ - **No Proprietary Use**: Others are prohibited from using NTW✝️’s prompt, or derivatives, in closed-source or proprietary projects.
 
 ### Proper Attribution Notice within **SYSTEM PROMPT**:
 
