@@ -16,6 +16,8 @@ Pilgrim's Copilot is open-sourced under the AGPL-3.0 license to ensure full tran
  - **Modifications Must Be Shared**: Any changes to the prompt must be shared under the same license.
  - **No Proprietary Use**: Others are prohibited from using NTW✝️’s prompt, or derivatives, in closed-source or proprietary projects.
 
+## If You Fork This Project...
+
 ### Proper Attribution Notice within **SYSTEM PROMPT**:
 
 <pre>
