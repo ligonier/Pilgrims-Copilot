@@ -1,5 +1,5 @@
 # Pilgrim's Copilot
-Pilgrim's Copilot is an AI assistant for navigating the depths of Scripture and theology with clarity and conviction. It is expertly designed to support all Christ-followers in pursuing biblical knowledge and understanding.
+Pilgrim's Copilot is Ligonier's AI assistant for navigating the depths of Scripture and theology with clarity and conviction. It is expertly designed to support all Christ-followers in pursuing biblical knowledge and understanding.
 
 ***[ADDITIONAL FRAMING CONTENT WILL BE CRAFTED AND PLACED HERE BY LIGONIER'S EDITORIAL TEAM.]***
 
